@@ -1,0 +1,152 @@
+[
+    {
+        "city": "Delhi",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 30,
+        "feels_like": 32,
+        "main": "Clear",
+        "min_temp": 25,
+        "max_temp": 35,
+        "summary": {
+            "average_temp": 30,
+            "max_temp": 35,
+            "min_temp": 25,
+            "dominant_condition": "Clear"
+        }
+    },
+    {
+        "city": "Mumbai",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 29,
+        "feels_like": 31,
+        "main": "Rain",
+        "min_temp": 24,
+        "max_temp": 32,
+        "summary": {
+            "average_temp": 28,
+            "max_temp": 32,
+            "min_temp": 24,
+            "dominant_condition": "Rain"
+        }
+    },
+    {
+        "city": "Chennai",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 33,
+        "feels_like": 35,
+        "main": "Clouds",
+        "min_temp": 28,
+        "max_temp": 36,
+        "summary": {
+            "average_temp": 32,
+            "max_temp": 36,
+            "min_temp": 28,
+            "dominant_condition": "Clouds"
+        }
+    },
+    {
+        "city": "Bangalore",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 27,
+        "feels_like": 29,
+        "main": "Clear",
+        "min_temp": 22,
+        "max_temp": 30,
+        "summary": {
+            "average_temp": 26,
+            "max_temp": 30,
+            "min_temp": 22,
+            "dominant_condition": "Clear"
+        }
+    },
+    {
+        "city": "Hyderabad",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 31,
+        "feels_like": 33,
+        "main": "Clear",
+        "min_temp": 27,
+        "max_temp": 34,
+        "summary": {
+            "average_temp": 30,
+            "max_temp": 34,
+            "min_temp": 27,
+            "dominant_condition": "Clear"
+        }
+    },
+    {
+        "city": "Kolkata",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 28,
+        "feels_like": 30,
+        "main": "Rain",
+        "min_temp": 25,
+        "max_temp": 31,
+        "summary": {
+            "average_temp": 28,
+            "max_temp": 31,
+            "min_temp": 25,
+            "dominant_condition": "Rain"
+        }
+    },
+    {
+        "city": "Pune",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 26,
+        "feels_like": 28,
+        "main": "Clouds",
+        "min_temp": 22,
+        "max_temp": 29,
+        "summary": {
+            "average_temp": 26,
+            "max_temp": 29,
+            "min_temp": 22,
+            "dominant_condition": "Clouds"
+        }
+    },
+    {
+        "city": "Jaipur",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 32,
+        "feels_like": 34,
+        "main": "Clear",
+        "min_temp": 28,
+        "max_temp": 35,
+        "summary": {
+            "average_temp": 31,
+            "max_temp": 35,
+            "min_temp": 28,
+            "dominant_condition": "Clear"
+        }
+    },
+    {
+        "city": "Ahmedabad",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 34,
+        "feels_like": 36,
+        "main": "Clear",
+        "min_temp": 30,
+        "max_temp": 37,
+        "summary": {
+            "average_temp": 33,
+            "max_temp": 37,
+            "min_temp": 30,
+            "dominant_condition": "Clear"
+        }
+    },
+    {
+        "city": "Lucknow",
+        "date": "2024-10-18T12:00:00Z",
+        "temp": 29,
+        "feels_like": 31,
+        "main": "Rain",
+        "min_temp": 25,
+        "max_temp": 32,
+        "summary": {
+            "average_temp": 28,
+            "max_temp": 32,
+            "min_temp": 25,
+            "dominant_condition": "Rain"
+        }
+    }
+]
